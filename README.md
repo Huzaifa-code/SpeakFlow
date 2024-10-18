@@ -64,7 +64,6 @@ To get started locally, follow these steps:
 ### Supported Tasks:
 - **Speech Recognition**: Convert audio to text using Whisper.
 - **Translation**: Translate text to any language using `transformers.js`.
-- **Natural Language Processing (NLP)**: Leverage state-of-the-art models for tasks like summarization, text generation, and more.
 
 ## Resources
 - [@xenova/transformers on npm](https://www.npmjs.com/package/@xenova/transformers)
